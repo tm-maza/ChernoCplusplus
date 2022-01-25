@@ -1,0 +1,8 @@
+Basic concepts to learn:
+
+pointers
+reference
+inheritance
+virtual class
+operators
+smart pointers
